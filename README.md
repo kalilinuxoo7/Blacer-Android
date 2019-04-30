@@ -1,6 +1,6 @@
 # BULWARK-Wallet
 
-![alt text](https://github.com/kalilinuxoo7/Blacer-Android/tree/master/banner/Feature%20Image.png)
+![alt text](https://github.com/kalilinuxoo7/Blacer-Android/blob/master/banner/Feature%20Image.jpg)
 
 Welcome to the Blacer mobile wallet for android!
 
